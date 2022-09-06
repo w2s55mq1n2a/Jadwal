@@ -1,2 +1,2 @@
 # Jadwal
-Jadwal For the Jubilee School Digitized
+Jadwal For the school Digitized
